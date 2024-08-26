@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h1 align="left">Hello World! I'm Adam 👋</h1>
 
 ###
@@ -7,12 +5,6 @@
 <br clear="both">
 
 <img align="right" height="200" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47r93irxi3u3w5qc8cqrjzguo8xoynaj09zp0cl3no&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
-
-###
-
-<br clear="both">
-
-<img align="right" src="https://profile-counter.glitch.me/ASBK-exe/count.svg?"  />
 
 ###
 
@@ -24,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img align="right" src="https://profile-counter.glitch.me/ASBK-exe/count.svg?"  />
 </div>
 
 ###
