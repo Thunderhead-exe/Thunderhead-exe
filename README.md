@@ -55,7 +55,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/ASBK-exe/ASBK-exe/output/snake.svg" alt="Snake animation" />
-
-###
