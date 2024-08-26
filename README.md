@@ -1,30 +1,49 @@
-<h1 align="left">Hello World! I'm Adam 👋</h1>
+# Hello World! I'm Adam 👋   
+  
 
-<br clear="both">
+<div align="right">
+<img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47r93irxi3u3w5qc8cqrjzguo8xoynaj09zp0cl3no&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="180" width="180" />
+</div>  
+  
 
-<img align="right" height="200" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47r93irxi3u3w5qc8cqrjzguo8xoynaj09zp0cl3no&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+<a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@ademsalahbk" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/@thunderhead.exe" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.behance.net/ademsabenkha" target="_blank">
+<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+</a>  
+  
 
-###
+![Profile views counter](https://komarev.com/ghpvc/?username=ASBK-exe&&style=flat-square)  
+  
 
-<h4 align="left">
-  > Aspiring AI Engineer<br>
-  > Seeking an End of Studies Internship in Data Science/ AI Engineering<br>
-  &nbsp;&nbsp;(4+ months, starting Feb 2025)<br>
-  > Experience:<br>
-  - AI Engineer Intern @Spark-it - Summer 2024<br>
-  - Data Science Intern @InnoDeep - Summer 2023<br>
-  - Team Lead @Google Developer Student Clubs (GDSC) - 23/24<br>
-  - AI Department Lead @Tunisian Space Association (TUNSA) - 23/24
-</h4>
 
-<br clear="both">
 
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  <img align="right" src="https://profile-counter.glitch.me/ASBK-exe/count.svg?" />
-</div>
+### Glad to see you here!  
+**Here's a quick summary:**
+- Data Science MSc Student
+- Aspiring AI Engineer
+- Seeking an End-of-Studies Internship in Data Science/ AI Engineering\
+ (4+ months, starting Feb 2025)  
+  
+
+**Experience:**
+- AI Engineer Intern @Spark-it - Summer 2024
+- Data Science Intern @InnoDeep - Summer 2023
+- Team Lead @Google Developer Student Clubs (GDSC) - 23/24
+- AI Department Lead @Tunisian Space Association (TUNSA) - 23/24  
+  
+
+<br/>  
 
 <br clear="both">
 
