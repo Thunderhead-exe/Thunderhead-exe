@@ -51,13 +51,13 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="40" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
+  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo" />
+  <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="40" alt="tensorflow logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="40" alt="pandas logo" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="40" alt="tensorflow logo" />
+  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="40" alt="docker logo" />
 </div>
 
 <br clear="both">
