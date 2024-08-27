@@ -1,5 +1,4 @@
 # Hello World! I'm Adam 👋   
-  
 
 <div align="right">
 <img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47r93irxi3u3w5qc8cqrjzguo8xoynaj09zp0cl3no&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="200" width="200" />
@@ -9,22 +8,23 @@
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@ademsalahbk" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/@thunderhead.exe" target="_blank">
+<a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s width="111" alt=yindi style="margin-bottom: 5px;" />
+</a>
+<a href="https://medium.com/@ademsalahbk" target="_blank">
+<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/thunderhead.exe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/ademsabenkha" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ASBK-exe&&style=square)  
-  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=ASBK-exe)  
 
 
 ### Glad to see you here!  
