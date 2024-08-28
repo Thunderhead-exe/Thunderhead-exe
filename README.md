@@ -14,17 +14,18 @@
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=yindi style="margin-bottom: 5px;" />
 </a>
+<a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=yindi style="margin-bottom: 5px;" />
+</a>
 <a href="https://medium.com/@ademsalahbk" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/thunderhead.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/ademsabenkha" target="_blank">
 <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
 </a>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Thunderhead-exe)  
+<a href="https://instagram.com/thunderhead.exe" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
 
 
 ### Glad to see you here!  
@@ -78,3 +79,8 @@
 </div>
 
 <br clear="both">
+
+<div align="center">
+  
+  [![Profile views counter 2](https://u8views.com/api/v1/github/profiles/111364619/views/day-week-month-total-count.svg)](https://u8views.com/github/Thunderhead-exe)
+</div>
