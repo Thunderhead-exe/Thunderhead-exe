@@ -17,7 +17,7 @@
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=yindi style="margin-bottom: 5px;" />
 </a>
-<a href="https://medium.com/@ademsalahbk" target="_blank">
+<a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/ademsabenkha" target="_blank">
