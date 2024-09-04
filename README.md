@@ -12,16 +12,19 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=yindi style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=zindi style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=yindi style="margin-bottom: 5px;" />
-</a>
-<a href="https://medium.com/@AdamBenKhalifa" target="_blank">
-<img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.behance.net/ademsabenkha" target="_blank">
-<img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge alt=behance style="margin-bottom: 5px;" />
+</a>  
+<a href="https://medium.com/@AdamBenKhalifa" target="_blank">
+<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge alt=medium style="margin-bottom: 5px;" />
+</a>
+<a href="https://x.com/Thunderhead_exe" target="_blank">
+<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
 </a>  
 <a href="https://instagram.com/thunderhead.exe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
