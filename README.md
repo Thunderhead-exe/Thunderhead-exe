@@ -44,7 +44,7 @@
 - AI Engineer Intern @Spark-it - Summer 2024
 - Data Science Intern @InnoDeep - Summer 2023
 - Team Lead @Google Developer Student Clubs (GDSC) - 23/24
-- AI Department Lead @Tunisian Space Association (TUNSA) - 23/24  
+- AI Department Lead @Tunisian Space Association (TUNSA) ENETCOM - 23/24  
   
 
 <br/>  
