@@ -34,7 +34,7 @@
 ### Glad to see you here!  
 **Here's a quick summary:**
 - Data Science MSc Student
-- Aspiring AI Engineer
+- Aspiring AI Research Engineer
 
 > ***Seeking an End-of-Studies Internship in Data Science/ AI Engineering***\
 *(4+ months, starting Feb 2025)*
