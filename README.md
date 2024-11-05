@@ -25,7 +25,10 @@
 </a>
 <a href="https://x.com/Thunderhead_exe" target="_blank">
 <img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
-</a>  
+</a>
+<a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
+<img src=https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
+</a>
 <a href="https://instagram.com/thunderhead.exe" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
