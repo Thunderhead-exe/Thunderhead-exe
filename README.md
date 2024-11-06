@@ -21,11 +21,11 @@
 <img src=https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
-<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo"  />
+<img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo"/>
 </a>
-<a href="https://www.behance.net/ademsabenkha" target="_blank">
+<!-- <a href="https://www.behance.net/ademsabenkha" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge alt=behance style="margin-bottom: 5px;" />
-</a>  
+</a>  -->
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge alt=medium style="margin-bottom: 5px;" />
 </a>
