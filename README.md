@@ -15,7 +15,7 @@
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=zindi style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src=https://media.licdn.com/dms/image/v2/D5612AQF7GN7XtlpFfQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697998607859?e=1738800000&v=beta&t=m7TSe5DL_PyIyqtmJDY4ungQ5ksa0wzptp0kb3ZBrbo height="28" alt=huggingface style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="28" alt=x style="margin-bottom: 5px;" />
