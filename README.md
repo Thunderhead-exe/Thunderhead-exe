@@ -18,7 +18,7 @@
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src=https://cdn.icon-icons.com/icons2/2530/PNG/512/leetcode_button_icon_151892.png?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="28" alt=x style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
 <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo"/>
