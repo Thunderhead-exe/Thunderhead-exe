@@ -47,10 +47,9 @@
   
 
 **Experience:**
-- AI Engineer Intern @Spark-it - Summer 24'
-- Data Science Intern @InnoDeep - Summer 23'
-- Team Lead @Google Developer Student Clubs - 23'
-- AI Department Manager @Tunisian Space Association Club - 23'  
+- AI Engineer Intern @Spark-it - Summer '24
+- Data Science Intern @InnoDeep - Summer '23
+- Team Lead @Google Developer Student Club - '23
   
 
 <br/>  
