@@ -1,9 +1,8 @@
 # Hello World! I'm Adam 👋   
 
 <div>
-<img src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif?cid=ecf05e47r93irxi3u3w5qc8cqrjzguo8xoynaj09zp0cl3no&ep=v1_gifs_search&rid=giphy.gif&ct=g" align="right" height="220" width="220" />
-</div>  
-  
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg2MGczMHk5ZW40NjhubHA3dTVvd25wZHUxMGhnZ3did3JkOGd1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bUAgbqv4mk8nFDV3CM/giphy.gif" align="right" width="240" />
+</div>
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -12,12 +11,12 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
-<!--<a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
+<a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=zindi style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 5px;" />
-</a> -->
+</a>
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="28" alt=x style="margin-bottom: 5px;" />
 </a>
