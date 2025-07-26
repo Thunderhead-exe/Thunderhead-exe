@@ -1,7 +1,7 @@
 # Hello World! I'm Adam 👋   
 
 <div>
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdqcmw1OGIwaDdoaDl3cHlmdTVtc3owdjRpOTNlZ3Vnem5kdHhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="240" />
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdqcmw1OGIwaDdoaDl3cHlmdTVtc3owdjRpOTNlZ3Vnem5kdHhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="200" />
 </div>
 <!--
 <div>
