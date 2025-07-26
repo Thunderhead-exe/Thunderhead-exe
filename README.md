@@ -1,7 +1,7 @@
 # Hello World! I'm Adam 👋   
 
 <div>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHg2MGczMHk5ZW40NjhubHA3dTVvd25wZHUxMGhnZ3did3JkOGd1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bUAgbqv4mk8nFDV3CM/giphy.gif" align="right" width="240" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExczQyYnQwYmV2cGY1NXVhbHN6a2dyNXp6NmlxeG4yaDhwc3ZmcDJwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriNLx3dUqFgVi86I/giphy.gif" align="right" width="240" />
 </div>
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
