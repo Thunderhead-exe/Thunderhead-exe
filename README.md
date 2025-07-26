@@ -3,7 +3,11 @@
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdqcmw1OGIwaDdoaDl3cHlmdTVtc3owdjRpOTNlZ3Vnem5kdHhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="240" />
 </div>
-
+<!--
+<div>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="240" />
+</div>
+-->
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -20,15 +24,17 @@
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="28" alt=x style="margin-bottom: 5px;" />
 </a>
+<!-- 
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
 <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="hackerrank logo"/>
 </a>
-<!-- <a href="https://www.behance.net/ademsabenkha" target="_blank">
+<a href="https://www.behance.net/ademsabenkha" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Behance&logo=behance&label=&color=1769ff&logoColor=white&labelColor=&style=for-the-badge alt=behance style="margin-bottom: 5px;" />
-</a>  
+</a> 
+-->
 <a href="https://x.com/Thunderhead_exe" target="_blank">
 <img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="28" alt=x style="margin-bottom: 5px;" />
-</a>-->
+</a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge alt=medium style="margin-bottom: 5px;" />
 </a>
