@@ -57,7 +57,7 @@
 **Experience:**
 - AI Engineer Intern @Spark-it - Summer '24
 - Data Science Intern @InnoDeep - Summer '23
-- Team Lead @Google Developer Student Club - '23
+- Team Lead @Google Developer Student Clubs - '23
   
 
 <br/>  
