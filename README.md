@@ -1,13 +1,13 @@
 # Hello World! I'm Adam 👋   
-
+<!--
 <div>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExemdqcmw1OGIwaDdoaDl3cHlmdTVtc3owdjRpOTNlZ3Vnem5kdHhjMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="160" />
 </div>
-<!--
+-->
 <div>
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="240" />
 </div>
--->
+
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="22" alt=linkedin style="margin-bottom: 5px;" />
 </a>
