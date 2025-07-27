@@ -5,7 +5,7 @@
 </div>
 -->
 <div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="270" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="260" />
 </div>
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
@@ -21,6 +21,9 @@
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
 <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="26" alt=huggingface style="margin-bottom: 10px;" />
 </a>
+
+<br/>  
+
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
 <img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="26" alt=x style="margin-bottom: 10px;" />
 </a>
