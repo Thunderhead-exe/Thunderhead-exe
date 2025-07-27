@@ -65,19 +65,19 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="26" alt="python logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="26" alt="docker logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="26" alt="pandas logo" />
-  <img width="12" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="docker logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="pandas logo" />
+  <img width="4" />
   <!--
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="28" alt="tensorflow logo" />
   <img width="12" />
   -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="26" alt="pytorch logo" />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="26" alt="git logo" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="24" alt="pytorch logo" />
+  <img width="4" />
+  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo" />
 </div>
 
 <br clear="both">
