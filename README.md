@@ -9,23 +9,23 @@
 </div>
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="26" alt=linkedin style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="28" alt=linkedin style="margin-bottom: 10px;" />
 </a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white height="26" alt=kaggle style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white height="28" alt=kaggle style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="26" alt=zindi style="margin-bottom: 10px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="28" alt=zindi style="margin-bottom: 10px;" />
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="26" alt=huggingface style="margin-bottom: 10px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="28" alt=huggingface style="margin-bottom: 10px;" />
 </a>
 
 <br/>  
 
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="26" alt=x style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="28" alt=x style="margin-bottom: 10px;" />
 </a>
 <!-- 
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
@@ -36,14 +36,14 @@
 </a> 
 -->
 <a href="https://x.com/Thunderhead_exe" target="_blank">
-<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="26" alt=x style="margin-bottom: 10px;" />
+<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="28" alt=x style="margin-bottom: 10px;" />
 </a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge height="26" alt=medium style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge height="28" alt=medium style="margin-bottom: 10px;" />
 </a>
 
 <a href="https://instagram.com/thunderhead.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="26" alt=instagram style="margin-bottom: 10px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="28" alt=instagram style="margin-bottom: 10px;" />
 </a>
 
 
