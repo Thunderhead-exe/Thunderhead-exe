@@ -82,16 +82,16 @@
 
 <div align="center">
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thunderhead-exe&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="169" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thunderhead-exe&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&order=1" height="140" alt="stats graph" />
   <img width="12" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thunderhead-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="169" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Thunderhead-exe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&order=2" height="140" alt="languages graph" />
 </div>
 <br clear="both">
 <div align="center">
   <img width="12" />
-  <img src="https://streak-stats.demolab.com?user=Thunderhead-exe&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&order=3" height="140" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Thunderhead-exe&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=6&order=3" height="120" alt="streak graph" />
   <img width="12" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thunderhead-exe&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="140" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Thunderhead-exe&radius=12&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=true" height="120" alt="activity-graph graph" />
 </div>
 
 <br clear="both">
