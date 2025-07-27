@@ -9,20 +9,20 @@
 </div>
 -->
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="21" alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="22" alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white height="21" alt=kaggle style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white height="22" alt=kaggle style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="21" alt=zindi style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQn1AUd--fQVIwO5is0ph_-mPV0UJbmtSQXA&s height="22" alt=zindi style="margin-bottom: 5px;" />
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="21" alt=huggingface style="margin-bottom: 5px;" />
+<img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTml8AOvfBEvBwCmb1mPQWNfHk-7KliyXBeNr_AaTPMCc-7h0jLTl9YVUbYHP2TPjQqfg&usqp=CAU height="22" alt=huggingface style="margin-bottom: 5px;" />
 </a>
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="21" alt=x style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="22" alt=x style="margin-bottom: 5px;" />
 </a>
 <!-- 
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
@@ -33,14 +33,14 @@
 </a> 
 -->
 <a href="https://x.com/Thunderhead_exe" target="_blank">
-<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="21" alt=x style="margin-bottom: 5px;" />
+<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="22" alt=x style="margin-bottom: 5px;" />
 </a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
-<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge height="21" alt=medium style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge height="22" alt=medium style="margin-bottom: 5px;" />
 </a>
 
 <a href="https://instagram.com/thunderhead.exe" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="21" alt=instagram style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white height="22" alt=instagram style="margin-bottom: 5px;" />
 </a>
 
 
@@ -62,19 +62,19 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="21" alt="python logo" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="22" alt="python logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="21" alt="docker logo" />
+  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="22" alt="docker logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="21" alt="pandas logo" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="22" alt="pandas logo" />
   <img width="12" />
   <!--
   <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="28" alt="tensorflow logo" />
   <img width="12" />
   -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="21" alt="pytorch logo" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="22" alt="pytorch logo" />
   <img width="12" />
-  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="21" alt="git logo" />
+  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="22" alt="git logo" />
 </div>
 
 <br clear="both">
