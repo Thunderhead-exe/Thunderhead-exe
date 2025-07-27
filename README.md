@@ -5,7 +5,7 @@
 </div>
 -->
 <div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="220" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="212" />
 </div>
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
