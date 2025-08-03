@@ -1,12 +1,12 @@
 # Hello World! I'm Adam 👋   
 
 <div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="210" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k1MW5jcWpsanN3bDNhdmlweThxa2NqbGU3c3FnOTVvemZlaG84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="160" />
 </div>
 
 <!--
 <div>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3k1MW5jcWpsanN3bDNhdmlweThxa2NqbGU3c3FnOTVvemZlaG84aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hkcLYq8U0UHemJEkZ0/giphy.gif" align="right" width="160" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="210" />
 </div>
 -->
 
