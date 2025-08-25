@@ -1,4 +1,4 @@
-# Wassup World! I'm Adam 👋   
+## Wassup World! I'm Adam 👋   
 
 <div>
 <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="160" />
