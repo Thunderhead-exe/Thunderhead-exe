@@ -10,7 +10,7 @@
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="210" />
 </div>
 -->
-
+<div align="left">
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%23000000" height="24">
 </a>
@@ -23,7 +23,6 @@
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
 <img src="https://img.shields.io/badge/huggingface-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23efc207&color=%23000000" height="24">
 </a>
-
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
 <img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23000000" height="24">
 </a>
@@ -33,6 +32,7 @@
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23222222&color=%23000000" height="24">
 </a>
+</div>
 
 ### Glad to see you here!  
 **Here's a quick summary:**
