@@ -2,7 +2,7 @@
 
 <div align="right">
   <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="200"/>
-  <img width="4" align="right"/>
+  <img length="20" align="right"/>
 </div>
 
 <!--
@@ -80,9 +80,6 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/linux-pass?style=for-the-badge&logo=linux&logoColor=%23ffffff&labelColor=%23000000&color=%23FCC624">
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/hugging%20face-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23000000&color=%23FFD21E">
-  <img width="4" />
-  <img width="4" />
-  <img width="4" />
   <img width="4" />
 </div>
 
