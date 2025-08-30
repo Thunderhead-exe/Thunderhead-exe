@@ -11,10 +11,10 @@
 -->
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white height="24" alt=linkedin style="margin-bottom: 10px;" />
+<img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logo=linkedin&logoColor=%23ffffff&labelColor=%230A66C2&color=%230A66C2" height="24" alt=linkedin style="margin-bottom: 10px;">
 </a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
-<img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white height="24" alt=kaggle style="margin-bottom: 10px;" />
+<img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%2320BEFF" height="24" alt=kaggle style="margin-bottom: 10px;">
 </a>
 
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
@@ -27,7 +27,7 @@
 <br/>  
 
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src=https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06 height="24" alt=x style="margin-bottom: 10px;" />
+<img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23FFA116" height="24" alt=x style="margin-bottom: 10px;">
 </a>
 <!-- 
 <a href="https://www.hackerrank.com/profile/ademsalahbk" target="_blank">
@@ -38,7 +38,7 @@
 </a> 
 -->
 <a href="https://x.com/Thunderhead_exe" target="_blank">
-<img src=https://creativereview.imgix.net/content/uploads/2023/07/twitterx-banner.jpg?auto=compress height="24" alt=x style="margin-bottom: 10px;" />
+<img alt="Static Badge" src="https://img.shields.io/badge/x%20%2F%20twitter-pass?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="24" style="margin-bottom: 10px;">
 </a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src=https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge height="24" alt=medium style="margin-bottom: 10px;" />
@@ -67,19 +67,31 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="24" alt="python logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-pass?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%23000000&color=%233776AB">
   <img width="4" />
-  <img src="https://img.shields.io/badge/docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="24" alt="docker logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-pass?style=for-the-badge&logo=docker&logoColor=%23ffffff&labelColor=%23000000&color=%232496ED">
   <img width="4" />
-  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="24" alt="pandas logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2">
   <img width="4" />
-  <!--
-  <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" height="28" alt="tensorflow logo" />
-  <img width="12" />
-  -->
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="24" alt="pytorch logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/pandas-pass?style=for-the-badge&logo=pandas&logoColor=%23ffffff&labelColor=%23000000&color=%23150458">
   <img width="4" />
-  <img src="https://img.shields.io/badge/git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/minio-pass?style=for-the-badge&logo=minio&logoSize=auto&labelColor=%23000000&color=%23C72E49">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-pass?style=for-the-badge&logo=pytorch&logoColor=%23ffffff&labelColor=%23000000&color=%23EE4C2C">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-pass?style=for-the-badge&logo=git&logoColor=%23ffffff&labelColor=%23000000&color=%23F05032">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/linux-pass?style=for-the-badge&logo=linux&logoColor=%23ffffff&labelColor=%23000000&color=%23FCC624">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-pass?style=for-the-badge&logo=neo4j&logoColor=%23ffffff&labelColor=%23000000&color=%234581C3">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/hugging%20face-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23000000&color=%23FFD21E">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/ollama-pass?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
+  <img width="4" />
+  <img width="4" />
+  <img width="4" />
+  <img width="4" />
 </div>
 
 <br clear="both">
