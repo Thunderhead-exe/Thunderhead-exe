@@ -36,10 +36,6 @@
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
 <img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="24" alt=medium style="margin-bottom: 10px;">
 </a>
-<a href="https://instagram.com/thunderhead.exe" target="_blank">
-<img src="https://img.shields.io/badge/instagram-pass?style=for-the-badge&logo=instagram&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="24" alt=instagram style="margin-bottom: 10px;">
-</a>
-
 
 ### Glad to see you here!  
 **Here's a quick summary:**
