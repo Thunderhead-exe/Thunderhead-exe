@@ -56,10 +56,11 @@
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/docker-pass?style=for-the-badge&logo=docker&logoColor=%23ffffff&labelColor=%23000000&color=%232496ED">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2">
-  <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-pass?style=for-the-badge&logo=neo4j&logoColor=%23ffffff&labelColor=%23000000&color=%234581C3">
   <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/lakefs-pass?style=for-the-badge&logo=lakefs&logoColor=%23ffffff&label=%E1%97%92%E2%80%A2%E2%80%BF%E2%80%A2%E1%97%95&labelColor=%23000000&color=%232CE5B5">  <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/pandas-pass?style=for-the-badge&logo=pandas&logoColor=%23ffffff&labelColor=%23000000&color=%23150458">
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/ollama-pass?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
@@ -69,6 +70,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-pass?style=for-the-badge&logo=pytorch&logoColor=%23ffffff&labelColor=%23000000&color=%23EE4C2C">
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/git-pass?style=for-the-badge&logo=git&logoColor=%23ffffff&labelColor=%23000000&color=%23F05032">
+  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-pass?style=for-the-badge&logo=scikitlearn&logoColor=%23ffffff&labelColor=%23000000&color=%23F7931E">
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/linux-pass?style=for-the-badge&logo=linux&logoColor=%23ffffff&labelColor=%23000000&color=%23FCC624">
   <img width="4" />
