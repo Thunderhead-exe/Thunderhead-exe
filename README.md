@@ -60,7 +60,7 @@
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/lakefs-pass?style=for-the-badge&logo=lakefs&logoColor=%23ffffff&label=%E1%97%92%E2%80%A2%E2%80%BF%E2%80%A2%E1%97%95&labelColor=%23000000&color=%232CE5B5">  <img width="4" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/lakefs-pass?style=for-the-badge&logo=lakefs&logoColor=%23ffffff&label=%E1%97%92%E2%80%A2%E2%80%BF%E2%80%A2%E1%97%95&labelColor=%23000000&color=%232abf99">  <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/pandas-pass?style=for-the-badge&logo=pandas&logoColor=%23ffffff&labelColor=%23000000&color=%23150458">
   <img width="4" />
   <img alt="Static Badge" src="https://img.shields.io/badge/ollama-pass?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
