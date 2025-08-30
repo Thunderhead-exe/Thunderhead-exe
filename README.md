@@ -1,7 +1,7 @@
 ## Wassup World! I'm Adam 👋   
 
 <div align="right">
-  <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="200"/>
+  <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="200" style="margin-bottom: 20px;"/>
   <img length="20" align="right"/>
 </div>
 
