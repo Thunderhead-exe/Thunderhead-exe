@@ -12,29 +12,26 @@
 -->
 
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%230077B5" height="24" alt=linkedin style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%230077B5">
 </a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
-<img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%2320BEFF" height="24" alt=kaggle style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%2320BEFF">
 </a>
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
-<img src="https://img.shields.io/badge/zindi-pass?style=for-the-badge&logoColor=%23ffffff&label=z&labelColor=%231F0F4E&color=%231F0F4E" height="24" alt=zindi style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/zindi-pass?style=for-the-badge&logoColor=%23ffffff&label=z&labelColor=%231F0F4E&color=%231F0F4E">
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src="https://img.shields.io/badge/huggingface-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23FFD21E&color=%23FFD21E" height="24" alt=huggingface style="margin-bottom: 10px;>
+<img src="https://img.shields.io/badge/huggingface-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23FFD21E&color=%23FFD21E">
 </a>
-
-<br clear="both">
-<br clear="both">
 
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23FFA116" height="24" alt=x style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23FFA116">
 </a>
 <a href="https://x.com/Thunderhead_exe" target="_blank">
-<img src="https://img.shields.io/badge/x%20%2F%20twitter-pass?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="24" style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/x%20%2F%20twitter-pass?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
 </a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
-<img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="24" alt=medium style="margin-bottom: 10px;">
+<img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
 </a>
 
 ### Glad to see you here!  
