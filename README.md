@@ -1,4 +1,4 @@
-## Wassup World! I'm Adam 👋   
+## i like compooters. (ദ്ദി —ᴗ—)
 
 <div align="right">
   <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="210"/>
