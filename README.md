@@ -36,7 +36,7 @@
 
 ### Glad to see you here!  
 **Here's a quick summary:**
-- AI Research Engineer Intern @THALES
+- AI Research Engineer Intern @THALES (TRT)
 - Data Science MSc Student
 - Aspiring AI Research Engineer
   
