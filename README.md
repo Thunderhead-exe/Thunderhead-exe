@@ -2,7 +2,7 @@
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQ2DqAWYuoJQ/profile-displaybackgroundimage-shrink_350_1400/B4DZpkKzKpGkAY-/0/1762617150647?e=1764201600&v=beta&t=POtUX8gpPHN4qXKaI3nUVxnxL0YFd5VamSbvjdSst1o" style="width: 100%;">
 </div>
 
-## I like compooters‎ ‎ ‎ (ദ്ദി — ᴗ —)
+## Yo! ‎ ‎ ‎ (ദ്ദി — ᴗ —)
 
 <div align="right">
   <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="210"/>
@@ -40,15 +40,16 @@
 
 ### Glad to see you here!  
 **Here's a quick summary:**
-- AI Research Engineer Intern @THALES (TRT)
-- Data Science MSc Student
-- Aspiring AI Research Engineer
-  
+- I like compooters
+- MSc in Data Science
+- Google DSC Team Lead '23
+- AI Research Builder & Explorer
+
 
 **Experience:**
+- AI Research Engineer Intern @THALES RT - '25
 - AI Engineer Intern @Spark-it - Summer '24
 - Data Science Intern @InnoDeep - Summer '23
-- Team Lead @Google Developer Student Clubs - '23
   
 
 <br/>  
