@@ -47,33 +47,33 @@
 <br clear="both">
 
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-pass?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%23000000&color=%233776AB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/python-pass?style=for-the-badge&logo=python&logoColor=%23ffffff&logoSize=auto&labelColor=%23000000&color=%233776AB" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/docker-pass?style=for-the-badge&logo=docker&logoColor=%23ffffff&labelColor=%23000000&color=%232496ED">
+  <img alt="Static Badge" src="https://img.shields.io/badge/docker-pass?style=for-the-badge&logo=docker&logoColor=%23ffffff&labelColor=%23000000&color=%232496ED" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-pass?style=for-the-badge&logo=neo4j&logoColor=%23ffffff&labelColor=%23000000&color=%234581C3">
+  <img alt="Static Badge" src="https://img.shields.io/badge/neo4j-pass?style=for-the-badge&logo=neo4j&logoColor=%23ffffff&labelColor=%23000000&color=%234581C3" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2">
+  <img alt="Static Badge" src="https://img.shields.io/badge/mlflow-pass?style=for-the-badge&logo=mlflow&logoColor=%23ffffff&labelColor=%23000000&color=%230194E2" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/pandas-pass?style=for-the-badge&logo=pandas&logoColor=%23ffffff&labelColor=%23000000&color=%23150458">
+  <img alt="Static Badge" src="https://img.shields.io/badge/pandas-pass?style=for-the-badge&logo=pandas&logoColor=%23ffffff&labelColor=%23000000&color=%23150458" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/ollama-pass?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000">
+  <img alt="Static Badge" src="https://img.shields.io/badge/ollama-pass?style=for-the-badge&logo=ollama&logoColor=%23ffffff&labelColor=%23000000&color=%23000000" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/langchain-pass?style=for-the-badge&logo=langchain&labelColor=%23000000&color=%231C3C3C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/langchain-pass?style=for-the-badge&logo=langchain&labelColor=%23000000&color=%231C3C3C" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/lakefs-pass?style=for-the-badge&logo=lakefs&logoColor=%23ffffff&label=%E1%97%92%E2%80%A2%E2%80%BF%E2%80%A2%E1%97%95&labelColor=%23000000&color=%232abf99">
+  <img alt="Static Badge" src="https://img.shields.io/badge/lakefs-pass?style=for-the-badge&logo=lakefs&logoColor=%23ffffff&label=%E1%97%92%E2%80%A2%E2%80%BF%E2%80%A2%E1%97%95&labelColor=%23000000&color=%232abf99" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/minio-pass?style=for-the-badge&logo=minio&logoSize=auto&labelColor=%23000000&color=%23C72E49">
+  <img alt="Static Badge" src="https://img.shields.io/badge/minio-pass?style=for-the-badge&logo=minio&logoSize=auto&labelColor=%23000000&color=%23C72E49" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-pass?style=for-the-badge&logo=pytorch&logoColor=%23ffffff&labelColor=%23000000&color=%23EE4C2C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/pytorch-pass?style=for-the-badge&logo=pytorch&logoColor=%23ffffff&labelColor=%23000000&color=%23EE4C2C" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/git-pass?style=for-the-badge&logo=git&logoColor=%23ffffff&labelColor=%23000000&color=%23F05032">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-pass?style=for-the-badge&logo=git&logoColor=%23ffffff&labelColor=%23000000&color=%23F05032" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-pass?style=for-the-badge&logo=scikitlearn&logoColor=%23ffffff&labelColor=%23000000&color=%23F7931E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/scikit--learn-pass?style=for-the-badge&logo=scikitlearn&logoColor=%23ffffff&labelColor=%23000000&color=%23F7931E" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/linux-pass?style=for-the-badge&logo=linux&logoColor=%23ffffff&labelColor=%23000000&color=%23FCC624">
+  <img alt="Static Badge" src="https://img.shields.io/badge/linux-pass?style=for-the-badge&logo=linux&logoColor=%23ffffff&labelColor=%23000000&color=%23FCC624" height="26">
   <img width="4" />
-  <img alt="Static Badge" src="https://img.shields.io/badge/hugging%20face-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23000000&color=%23FFD21E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/hugging%20face-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23000000&color=%23FFD21E" height="26">
   <img width="4" />
 </div>
 
