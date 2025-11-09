@@ -4,16 +4,6 @@
 
 ## (ദ്ദി — ᴗ —) Sup!
 
-<div align="right">
-  <img src="https://i.giphy.com/hkcLYq8U0UHemJEkZ0.webp" align="right" width="210"/>
-  <img length="20" align="right"/>
-</div>
-
-<!--
-<div>
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdpcWwzcmk3Z3RweDN1YXRsd3EwNGZtZmF5ajBvd3poaGhiYnhuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U4jfYmwUUd3pGStk5E/giphy.gif" align="right" width="210" />
-</div>
--->
 <div align="left">
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%23000000">
