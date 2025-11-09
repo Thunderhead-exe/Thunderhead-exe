@@ -6,25 +6,25 @@
 
 <div align="left">
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%23000000" height="28">
 </a>
 <a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
-<img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%23000000" height="28">
 </a>
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
-<img src="https://img.shields.io/badge/zindi-pass?style=for-the-badge&logoColor=%23ffffff&label=z&labelColor=%231F0F4E&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/zindi-pass?style=for-the-badge&logoColor=%23ffffff&label=z&labelColor=%231F0F4E&color=%23000000" height="28">
 </a>
 <a href="https://huggingface.co/Adam-Ben-Khalifa" target="_blank">
-<img src="https://img.shields.io/badge/huggingface-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23efc207&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/huggingface-pass?style=for-the-badge&logo=huggingface&logoColor=%23ffffff&labelColor=%23efc207&color=%23000000" height="28">
 </a>
 <a href="https://leetcode.com/u/ademsalahbk/" target="_blank">
-<img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/leetcode-pass?style=for-the-badge&logo=leetcode&logoColor=%23ffffff&labelColor=%23FFA116&color=%23000000" height="28">
 </a>
 <a href="https://x.com/Thunderhead_exe" target="_blank">
-<img src="https://img.shields.io/badge/x%20%2F%20twitter-pass?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23222222&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/x%20%2F%20twitter-pass?style=for-the-badge&logo=x&logoColor=%23ffffff&labelColor=%23222222&color=%23000000" height="28">
 </a>
 <a href="https://medium.com/@AdamBenKhalifa" target="_blank">
-<img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23222222&color=%23000000" height="24">
+<img src="https://img.shields.io/badge/medium-pass?style=for-the-badge&logo=medium&logoColor=%23ffffff&labelColor=%23222222&color=%23000000" height="28">
 </a>
 </div>
 
