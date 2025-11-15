@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/adambenkhalifa" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-pass?style=for-the-badge&logoColor=%23ffffff&label=in&labelColor=%230077B5&color=%23000000" height="26">
 </a>
-<a href="https://www.kaggle.com/ademsalehbenkhalifa" target="_blank">
+<a href="https://www.kaggle.com/adambenkhalifa" target="_blank">
 <img src="https://img.shields.io/badge/kaggle-pass?style=for-the-badge&logo=kaggle&logoColor=%23ffffff&labelColor=%2320BEFF&color=%23000000" height="26">
 </a>
 <a href="https://zindi.africa/users/Thunderhead_exe" target="_blank">
