@@ -1,5 +1,8 @@
 <div align="center">
+  <!--
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQ2DqAWYuoJQ/profile-displaybackgroundimage-shrink_350_1400/B4DZpkKzKpGkAY-/0/1762617150647?e=1764201600&v=beta&t=POtUX8gpPHN4qXKaI3nUVxnxL0YFd5VamSbvjdSst1o" style="width: 100%;">
+  -->
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHaCgjTxnrk1Q/profile-displaybackgroundimage-shrink_350_1400/B4DZqZXyRmGwAY-/0/1763509818615?e=1765411200&v=beta&t=-Cmm1Ma0bbp6QStgRK8Mw5KMQpxa2fVMehXpan_8pPw" style="width: 100%;">
 </div>
 
 ## (ദ്ദി — ᴗ —) Sup!
