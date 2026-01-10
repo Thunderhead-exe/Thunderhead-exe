@@ -40,6 +40,7 @@
 
 
 **Experience:**
+- MLOps Engineer @Thales RT
 - AI Research Engineer Intern @THALES RT - '25
 - AI Engineer Intern @Spark-it - Summer '24
 - Data Science Intern @InnoDeep - Summer '23
