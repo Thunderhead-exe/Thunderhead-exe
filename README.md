@@ -2,7 +2,7 @@
   <!--
   <img src="https://media.licdn.com/dms/image/v2/D4D16AQGQ2DqAWYuoJQ/profile-displaybackgroundimage-shrink_350_1400/B4DZpkKzKpGkAY-/0/1762617150647?e=1764201600&v=beta&t=POtUX8gpPHN4qXKaI3nUVxnxL0YFd5VamSbvjdSst1o" style="width: 100%;">
   -->
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHaCgjTxnrk1Q/profile-displaybackgroundimage-shrink_350_1400/B4DZqZXyRmGwAY-/0/1763509818615?e=1767225600&v=beta&t=JQEhP90vWMsGp28uZcKjcFNHnUpPqKYzmWOscR8zfhA" style="width: 100%;">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHaCgjTxnrk1Q/profile-displaybackgroundimage-shrink_350_1400/B4DZqZXyRmGwAY-/0/1763509818615?e=1769644800&v=beta&t=Ty3WOdpOUQXV3I9zjAoZYQpm3E1i_IWW_90754_Kkfk" style="width: 100%;">
 </div>
 
 ## (ദ്ദി — ᴗ —) Sup!
