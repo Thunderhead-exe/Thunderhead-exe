@@ -33,18 +33,17 @@
 
 ### Glad to see you here!  
 **Here's a quick summary:**
-- I like compooters
-- MSc in Data Science
+- I like Engineering, Tech, and Art
 - Google DSC Team Lead '23
-- AI Research Builder & Explorer
+- MSc in Data Science
 
 
 **Experience:**
-- MLOps Engineer @Thales RT
-- AI Research Engineer Intern @THALES RT - '25
-- AI Engineer Intern @Spark-it - Summer '24
-- Data Science Intern @InnoDeep - Summer '23
-  
+- MLOps Engineer @Thales R&T
+- AI Engineer Intern @Thales R&T
+- AI Engineer Intern @Spark-it
+- Data Science Intern @InnoDeep
+
 
 <br/>  
 
